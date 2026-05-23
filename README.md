@@ -1,34 +1,31 @@
 # Ecommerce Hybrid QA Project
 
-## Project Overview
+## Overview
 
-This project demonstrates fresher-level Hybrid QA skills including:
+This project demonstrates a fresher-level Hybrid QA workflow covering:
 
 - Manual Testing
 - API Testing
 - Automation Testing
 
-The project is based on an Ecommerce application workflow and covers real-world QA activities such as test case design, bug reporting, API validation, and Selenium automation.
+The project simulates real-world ecommerce testing activities including test case design, bug reporting, API validation, and Selenium-based automation testing.
 
 ---
 
-# Technologies Used
+## Technologies & Tools
 
-## Manual Testing
+### Manual Testing
 - Test Scenarios
 - Test Cases
 - Bug Reporting
 
-## API Testing
+### API Testing
 - Postman
 - REST APIs
-- GET
-- POST
-- PUT
-- PATCH
-- DELETE
+- CRUD Operations
+- JSON Validation
 
-## Automation Testing
+### Automation Testing
 - Selenium WebDriver
 - Java
 - TestNG
@@ -37,7 +34,7 @@ The project is based on an Ecommerce application workflow and covers real-world 
 
 ---
 
-# Modules Covered
+## Modules Covered
 
 - Login
 - Product Listing
@@ -48,31 +45,31 @@ The project is based on an Ecommerce application workflow and covers real-world 
 
 ---
 
-# Automation Scenarios
+## Automation Scenarios
 
-- Valid Login Test
-- Add Product To Cart Test
+- Valid Login Automation
+- Add Product To Cart Automation
 
 ---
 
-# API Testing Coverage
+## API Testing Coverage
 
 Performed API testing using DummyJSON Ecommerce APIs.
 
-Covered:
+### APIs Covered
 - Product APIs
 - Cart APIs
 - CRUD Operations
 
-Validated:
-- Status Codes
-- JSON Response
-- API Response Data
-- Product and Cart APIs
+### Validations Performed
+- Status Code Validation
+- JSON Response Validation
+- Product Data Validation
+- Cart API Validation
 
 ---
 
-# Project Structure
+## Project Structure
 
 ```text
 Ecommerce-Hybrid-QA/
@@ -86,17 +83,17 @@ Ecommerce-Hybrid-QA/
 
 ---
 
-# Key Learning Outcomes
+## Key Learning Outcomes
 
 - Manual QA process understanding
-- API testing fundamentals
+- REST API testing fundamentals
 - Selenium automation basics
-- Framework structure understanding
+- Page Object Model implementation
 - End-to-end ecommerce workflow testing
-- Hybrid QA approach
+- Hybrid QA workflow understanding
 
 ---
 
-# Author
+## Author
 
 Deepak Chaudhary
